@@ -1,0 +1,18 @@
+/* Escribe tu css aqui */
+.caja
+{
+	background: #FFFF00;
+	
+	
+}
+.caja_media
+{
+	background: #FF0000;
+
+}
+div
+{
+	margin: 10px;
+	padding:10px;
+	display:inline;
+}
