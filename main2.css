@@ -1,0 +1,20 @@
+/* Escribe tu css aqui */
+.caja
+{
+	background: #FFFF00;
+	height:170px;
+	width:280px;
+	
+}
+.caja_media
+{
+	background: #FF0000;
+	height:170px;
+	width:280px;
+
+}
+div
+{
+	margin:10px;
+	padding:10px;
+}
